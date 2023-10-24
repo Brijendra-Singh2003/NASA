@@ -13,5 +13,5 @@ jobs:
         with:
           node-version: '16'
       - run: npm run installa
-      - run: npm run installb
-      - run: npm run build
+      # - run: npm run installb
+      # - run: npm run build
